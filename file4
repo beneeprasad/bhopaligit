@@ -1,0 +1,17 @@
+mkdir mumbaigit
+git init
+git status
+ls
+echo " jay jay bajrang bali hanuman " > file1
+git add .
+ya git add file1
+git commit -m " my first commit from mumbaigit "
+git status 
+git log 
+git show 
+git show < commit id >
+git log -1 
+git log -2 
+git log --oneline
+git log --grep < search >
+ 
